@@ -1,6 +1,6 @@
-README.md — Agenda PRO
+README.md — Versão final
 
-\<p align="center"\>\<a href="https://laravel.com" target="\_blank"\>\<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Logo Laravel"\>\</a\>\</p\>
+\<p align="center"\> \<a href="https://laravel.com"\> \<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Logo Laravel"\> \</a\> \</p\>
 
 \<p align="center"\> \<a href="https://github.com/laravel/framework/actions"\>\<img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Status de compilação"\>\</a\> \<a href="https://packagist.org/packages/laravel/framework"\>\<img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total de downloads"\>\</a\> \<a href="https://packagist.org/packages/laravel/framework"\>\<img src="https://img.shields.io/packagist/v/laravel/framework" alt="Última versão estável"\>\</a\> \<a href="https://packagist.org/packages/laravel/framework"\>\<img src="https://img.shields.io/packagist/l/laravel/framework" alt="Licença"\>\</a\> \</p\>
 
@@ -54,18 +54,22 @@ Caso encontre alguma vulnerabilidade de segurança no Laravel, é importante com
 
 O Laravel é um framework de código aberto, disponibilizado sob a licença MIT.
 
-## Sobre o projeto Agenda PRO
+---
 
-O Agenda PRO é um projeto desenvolvido com o objetivo de facilitar a organização e o gerenciamento de compromissos e atividades, proporcionando mais praticidade no dia a dia.
+# Agenda PRO
 
-### Funcionalidades implementadas
+## Sobre o projeto
+
+O Agenda PRO é um sistema desenvolvido com o objetivo de facilitar a organização e o gerenciamento de compromissos e atividades, proporcionando mais praticidade e organização no dia a dia.
+
+## Funcionalidades
 
 - Cadastro de compromissos.
 - Visualização de compromissos cadastrados.
 - Organização de atividades.
 - Gerenciamento de informações da agenda.
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - PHP
 - Laravel
@@ -74,7 +78,7 @@ O Agenda PRO é um projeto desenvolvido com o objetivo de facilitar a organizaç
 - JavaScript
 - MySQL
 
-### Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
 
@@ -84,12 +88,12 @@ bash
 git clone URL_DO_REPOSITORIO
 ```
 
-2. Acesse a pasta do projeto:
+2. Entre na pasta do projeto:
 
 bash
 
 ```bash
-cd agenda-pro
+cd agendapro
 ```
 
 3. Instale as dependências:
